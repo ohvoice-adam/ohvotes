@@ -1,0 +1,8 @@
+@font-face {
+   font-family: 'subset-GothamMedium';
+   src: url('subset-GothamMedium/font.woff');
+}
+@font-face {
+   font-family: 'subset-GothamLight';
+   src: url('subset-GothamLight/font.woff');
+}
